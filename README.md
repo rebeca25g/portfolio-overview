@@ -37,16 +37,4 @@ Exploring supply and demand dynamics in a ride-hailing dataset — driver availa
 
 ---
 
-## 🛠️ Skills
-
-| Category | Tools & Technologies |
-|----------|----------------------|
-| Data Analysis | SQL, Python (Pandas, NumPy) |
-| Visualisation | Power BI |
-| Operations | Process documentation, SOP development, KPI tracking |
-| Workflow | Git, GitHub, Agile/Scrum |
-| Languages | Romanian (Native), English (C1), Hungarian (Intermediate) |
-
----
-
 *Portfolio actively in development — new projects added regularly.*
